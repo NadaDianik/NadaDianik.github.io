@@ -23,7 +23,7 @@
 	
 	<h3 style="color:skyblue;">Tugas-Tugas KKPI:</h3>
 	<img src="https://github.com/NadaDianik/NadaDianik.github.io/blob/master/XI.2-17.63.08757-Nada%20Diani%20Khairunnisa-GIMP%20EDIT%20DGN%20SELEBRITI.png">
-	<img src="XI.2-17.63.08757-Nada Diani Khairunnisa-TUGAS GIMP HOBI.png">XI.2-17.63.08757-Nada Diani Khairunnisa-GIMP EDIT DGN SELEBRITI.png";width: 300px;>
+	<img src="XI.2-17.63.08757-Nada Diani Khairunnisa-TUGAS GIMP HOBI.png">
 	<img src="https://raw.githubusercontent.com/NadaDianik/Tugas-Labkom/master/XI-2.17.63.08757.Nada%20Diani%20Khairunnisa-TUGAS%20GIMP%20GIF.gif">
 
 
